@@ -1,6 +1,6 @@
 # Sentiment Analysis Model Deployment
 
-This project is a part of the (Deep Learning Nanodegree)[https://www.udacity.com/course/deep-learning-nanodegree--nd101] at (Udacity)[https://www.udacity.com/]
+This project is a part of the [Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101) at [Udacity](https://www.udacity.com/)
 
 -- Project Status: In Progress
 
